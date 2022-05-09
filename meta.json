@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://github.com/achesak/nim-geonames",
   "refs": [
-    "fatal: unable to access 'https://github.com/achesak/nim-geonames/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/achesak/nim-geonames/': Failed to connect to github.com port 443 after 129691 ms: Network is unreachable",
     ""
   ],
   "heads": []
