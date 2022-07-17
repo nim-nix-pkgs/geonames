@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1657152954,
-        "narHash": "sha256-MXnykqJzawpMP8L3/df1KU4jYCznYVChZjfqAtBaV4w=",
+        "lastModified": 1658017939,
+        "narHash": "sha256-04ldwmUve8L7ovzR18zrAvrQX6MQ1r+nk+yEFYz43yY=",
         "owner": "nim-nix-pkgs",
         "repo": "geonames",
-        "rev": "e71e61a3b4f0c46996c6da39244da66c61a2ab35",
+        "rev": "9a673917d89af531a139b53fa2628a8622d1cb15",
         "type": "github"
       },
       "original": {
